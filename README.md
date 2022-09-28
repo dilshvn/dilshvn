@@ -17,7 +17,7 @@
 - Fresh graduate from University of Moratuwa, Sri Lanka
 - Self studying and looking for opportunities in IT field
 - <a href="https://drive.google.com/file/d/11n59K-2GpACEG9v7Gn1gRvyvDgALQiij/view?usp=sharing">Click here to see my resume</a>
-- Contact me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dilshan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilshvn)
+- How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dilshan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilshvn)
 
 ---
 
