@@ -31,7 +31,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm"  alt="PyCharm" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"  title ="IntelliJ IDEA" alt="IntelliJ IDEA" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title ="VS Code" alt="VS Code" width="35" height="35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title ="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title ="MATLAB" alt="MATLAB" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title ="Git" alt="Git" width="45" height="45"/>&nbsp;
 
 ---
 
