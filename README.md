@@ -47,7 +47,7 @@
 ### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dilshvn&theme=vision-friendly-dark)](https://git.io/streak-stats)<br>
 ![GitHub Stats Summary](https://github-readme-stats.vercel.app/api?username=dilshvn&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&layout=compact&theme=vision-friendly-dark)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
