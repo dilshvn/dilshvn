@@ -6,7 +6,6 @@
 <a href="https://www.buymeacoffee.com/dilshvn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue"></p>
-<p align="center"><img src="http://img.shields.io/badge/Code%20Time-410%20hrs%202%20mins-blue" width="161"></p>
 
 <h1 align="center">Hello there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
