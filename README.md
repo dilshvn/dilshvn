@@ -5,7 +5,8 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/dilshvn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue"></p>
+<p align="center"><img src="http://img.shields.io/badge/Code%20Time-410%20hrs%202%20mins-blue" width="161"></p>
 
 <h1 align="center">Hello there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -47,3 +48,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dilshvn&theme=vision-friendly-dark)](https://git.io/streak-stats)<br>
 ![GitHub Stats Summary](https://github-readme-stats.vercel.app/api?username=dilshvn&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&layout=compact&theme=vision-friendly-dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
