@@ -42,6 +42,7 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ---
 
 ### Stats
