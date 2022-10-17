@@ -31,6 +31,7 @@
 ![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/jupyter%20notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/git%20bash-00000F?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/matlab-FF3621?style=for-the-badge&logo=&logoColor=white)
