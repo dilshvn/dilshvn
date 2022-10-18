@@ -44,6 +44,8 @@
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![](https://img.shields.io/badge/sql%20alchemy-FF3621?style=for-the-badge&logo=&logoColor=white)
+![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ---
 
 ### Stats
