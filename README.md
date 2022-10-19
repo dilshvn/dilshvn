@@ -12,7 +12,7 @@
 ### About me
 - Fresh graduate from University of Moratuwa, Sri Lanka
 - Self studying and looking for opportunities in IT field
-- <a href="https://github.com/dilshvn/self-learning/blob/main/resume/Dilshan%20Perera%20(CV).pdf">Click here to see my resume</a>
+- <a href="https://github.com/dilshvn/resume/blob/main/Dilshan%20Perera%20(CV).pdf">Click here to see my resume</a>
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dilshan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilshvn)
 
 ---
