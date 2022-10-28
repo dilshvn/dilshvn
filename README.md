@@ -54,7 +54,7 @@
 ![](https://img.shields.io/badge/sqlalchemy-FF3621?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### GitHub Stats
+### GitHub stats
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=dilshvn&theme=vision-friendly-dark" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark&langs_count=10" width="50%">
