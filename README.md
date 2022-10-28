@@ -1,21 +1,29 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/dilshvn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/dilshvn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue"></p>
 
+<p align="center">
+<a href="">
+  <img alt="dilshvn | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
+</a>
+<a href="https://www.linkedin.com/in/dilshvn">
+  <img alt="dilshvn's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://www.instagram.com/dilshvn">
+  <img alt="dilshvn's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
+</a>
+<a href="https://open.spotify.com/user/rfswxw5owypx98mb9oxkdoyws">
+  <img alt="dilshvn's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1615?logoColor=white%26project=%26recentMS=0%26showProject=false" /><br>
+<img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue">
+</p>
 <p align="center"><img src="https://media.giphy.com/media/qx8AUBqnCpAE8/giphy.gif" width="600" height="auto"  /></p>
 
 ### About me
 - Fresh graduate from University of Moratuwa, Sri Lanka
-- Self studying and looking for opportunities in IT field
+- Self studying and looking for opportunities in Computer Science field
 - <a href="https://github.com/dilshvn/resume/blob/main/Dilshan%20Perera%20(CV).pdf">Click here to see my resume</a>
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dilshan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilshvn)
-
----
 
 ### Skills
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,9 +54,32 @@
 ![](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/sqlalchemy-FF3621?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
----
 
-### Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dilshvn&theme=vision-friendly-dark)](https://git.io/streak-stats)<br>
-![GitHub Stats Summary](https://github-readme-stats.vercel.app/api?username=dilshvn&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&layout=compact&theme=vision-friendly-dark)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=dilshvn&theme=vision-friendly-dark" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark&langs_count=10" width="50%">
+</p>
+<p align = "center">
+<img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20activity%20graph&theme=react-dark&hide_border=true" width="100%">
+</p>
+
+```text
+🌞 Morning        ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
+🌆 Daytime        ██████████████░░░░░░░░░░░   56.69% 
+🌃 Evening        ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
+🌙 Night          ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
+```
+
+```text
+⌚︎ Time Zone: GMT + 5.30
+
+Monday            █████░░░░░░░░░░░░░░░░░░░░   21.09% 
+Tuesday           █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Wednesday         █████░░░░░░░░░░░░░░░░░░░░   19.82% 
+Thursday          ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
+Friday            ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
+Saturday          █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
+Sunday            ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
+
+```
