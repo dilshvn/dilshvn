@@ -1,6 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-
-<p align="center">
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
 <a href="">
   <img alt="dilshvn | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
 </a>
@@ -15,7 +13,9 @@
 </a>
 <br>
 <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1615?logoColor=white%26project=%26recentMS=0%26showProject=false" /><br>
-<img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue"><br>
+<img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue"><br></p>
+
+<p align="center">
 <img src="https://media.giphy.com/media/qx8AUBqnCpAE8/giphy.gif" width="600" height="auto"></p>
 
 ### About me
