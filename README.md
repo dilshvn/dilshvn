@@ -15,9 +15,8 @@
 </a>
 <br>
 <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1615?logoColor=white%26project=%26recentMS=0%26showProject=false" /><br>
-<img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue">
-</p>
-<p align="center"><img src="https://media.giphy.com/media/qx8AUBqnCpAE8/giphy.gif" width="600" height="auto"  /></p>
+<img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue"><br>
+<img src="https://media.giphy.com/media/qx8AUBqnCpAE8/giphy.gif" width="600" height="auto"></p>
 
 ### About me
 - Fresh graduate from University of Moratuwa, Sri Lanka
