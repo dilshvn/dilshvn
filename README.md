@@ -56,8 +56,8 @@
 
 ### GitHub stats
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=dilshvn&theme=vision-friendly-dark" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark&langs_count=10" width="50%">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=dilshvn&theme=vision-friendly-dark" width="70%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark&langs_count=10" width="70%">
 </p>
 <p align = "center">
 <img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20activity%20graph&theme=react-dark&hide_border=true" width="100%">
