@@ -65,7 +65,10 @@ interests: Machine Learning, Data Science
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark&langs_count=10">
 <img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20activity%20graph&theme=react-dark&hide_border=true" width="100%">
 </p>
+<img src="https://github.com/dilshvn/dilshvn/blob/main/images/stat.svg">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2034%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-204-blue)
 <!--END_SECTION:waka-->
-<img src="https://github.com/dilshvn/dilshvn/blob/main/images/stat.svg">
+
