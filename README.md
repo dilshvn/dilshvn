@@ -12,7 +12,7 @@
   <img alt="dilshvn's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1615?logoColor=white%26project=%26recentMS=0%26showProject=false" /><br>
+<img alt="Code Time" src="https://wakatime.com/badge/user/6150e212-a227-4248-9cfe-3d6ff18fc409.svg" /><br>
 <img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue"><br></p>
 
 <p align="center">
@@ -65,7 +65,3 @@ interests: Machine Learning, Data Science
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark&langs_count=10">
 <img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20activity%20graph&theme=react-dark&hide_border=true" width="100%">
 </p>
-<img src="https://github.com/dilshvn/dilshvn/blob/main/images/stat.svg">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
