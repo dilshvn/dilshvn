@@ -69,10 +69,3 @@
   src="https://github.com/dilshvn/dilshvn/blob/main/images/stat.svg"
   alt="Dilshan's WakaTime Stats"
 />
-<img
-  src="https://www.githubtrends.io/wrapped/dilshvn!"
-  alt="Dilshan's WakaTime Stats"
-/>
-
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
