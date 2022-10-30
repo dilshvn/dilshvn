@@ -63,5 +63,5 @@ interests: Machine Learning, Data Science
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=dilshvn&theme=vision-friendly-dark"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark&langs_count=10">
-<img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Contributions&theme=react-dark&hide_border=true" width="100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=react-dark&hide_border=true" width="100%">
 </p>
