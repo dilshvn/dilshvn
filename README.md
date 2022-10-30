@@ -18,13 +18,18 @@
 <p align="center">
 <img src="https://media.giphy.com/media/qx8AUBqnCpAE8/giphy.gif" width="600" height="auto"></p>
 
-### About me
-- Fresh graduate from University of Moratuwa, Sri Lanka
-- Self studying and looking for opportunities in Computer Science field
-- <a href="https://github.com/dilshvn/resume/blob/main/Dilshan%20Perera%20(CV).pdf">Click here to see my resume</a>
-- How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dilshan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilshvn)
+#### About me
+```yaml
+name: Dilshan
+age: 25
+from: Gampaha, Sri Lanka
+education: Fresh engineering graduate from University of Moratuwa, Sri Lanka
+currently: Self studying and looking for opportunities in Computer Science field
+interests: Machine Learning, Data Science
+```
+<a href="https://github.com/dilshvn/resume/blob/main/Dilshan%20Perera%20(CV).pdf">![](https://img.shields.io/badge/click%20here%20for%20my%20resume-B32024?style=for-the-badge&logo=&logoColor=white)</a><br>
 
-### Skills
+#### Skills
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,7 +59,7 @@
 ![](https://img.shields.io/badge/sqlalchemy-FF3621?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### GitHub stats
+#### GitHub stats
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=dilshvn&theme=vision-friendly-dark" width="55%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark&langs_count=10" width="55%">
@@ -65,7 +70,4 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<img
-  src="https://github.com/dilshvn/dilshvn/blob/main/images/stat.svg"
-  alt="Dilshan's WakaTime Stats"
-/>
+<img src="https://github.com/dilshvn/dilshvn/blob/main/images/stat.svg">
