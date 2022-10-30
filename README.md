@@ -71,3 +71,5 @@
 />
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dilshvn)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
