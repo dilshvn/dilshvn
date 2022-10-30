@@ -69,3 +69,5 @@
   src="https://github.com/dilshvn/dilshvn/blob/main/images/stat.svg"
   alt="Dilshan's WakaTime Stats"
 />
+
+[![Dilshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilshvn)](https://github.com/anuraghazra/github-readme-stats)
