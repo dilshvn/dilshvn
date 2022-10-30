@@ -68,7 +68,4 @@ interests: Machine Learning, Data Science
 <img src="https://github.com/dilshvn/dilshvn/blob/main/images/stat.svg">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2034%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-204-blue)
 <!--END_SECTION:waka-->
-
