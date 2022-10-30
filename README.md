@@ -69,4 +69,3 @@
   src="https://github.com/dilshvn/dilshvn/blob/main/images/stat.svg"
   alt="Dilshan's WakaTime Stats"
 />
-![Snake animation](https://github.com/dilshvn/dilshvn/blob/output/github-contribution-grid-snake.svg)
