@@ -65,3 +65,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<img
+  src="https://github.com/dilshvn/dilshvn/blob/main/images/stat.svg"
+  alt="Dilshan's WakaTime Stats"
+/>
