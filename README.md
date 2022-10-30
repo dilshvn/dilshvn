@@ -64,14 +64,4 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```text
-From: 10 October 2022 - To: 29 October 2022
-
-Total Time: 1 hr 40 mins
-
-Python   1 hr 39 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.89 %
-Other    0 secs          -------------------------   00.11 %
-```
-
 <!--END_SECTION:waka-->
