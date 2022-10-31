@@ -60,12 +60,6 @@ interests: Machine Learning, Data Science
 ![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### GitHub stats
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=dilshvn&theme=vision-friendly-dark"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshvn&layout=compact&theme=vision-friendly-dark&langs_count=10">
-<img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=react-dark&hide_border=true" width="100%">
-</p>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2045%20mins-blue)
 
@@ -149,3 +143,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
  Last Updated on 31/10/2022 00:40:09 UTC
 <!--END_SECTION:waka-->
+
+<img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=react-dark&hide_border=true" width="100%">
+
