@@ -1,15 +1,16 @@
-name: Waka Readme
+name: Wakatime Charts
 
 on:
-  schedule:
-    - cron: '15 */12 * * *'
   workflow_dispatch:
-  
+  schedule:
+    - cron: "0 0 * * *"
+
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update-charts:
+    name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: miermontoto/waka-readme-stats@master
+      - uses: dvjn/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
