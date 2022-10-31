@@ -130,5 +130,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
  Last Updated on 31/10/2022 00:58:14 UTC
 <!--END_SECTION:waka-->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=react-dark&hide_border=true" width="100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=github-light&hide_border=true" width="100%">
 
