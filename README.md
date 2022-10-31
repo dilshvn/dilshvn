@@ -67,4 +67,11 @@ interests: Machine Learning, Data Science
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Python   5 hrs 39 mins   ████████████████████████▓   98.34 %
+Text     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
