@@ -16,7 +16,10 @@
 <img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue"><br></p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qx8AUBqnCpAE8/giphy.gif" width="600" height="auto"></p>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=rfswxw5owypx98mb9oxkdoyws&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=rfswxw5owypx98mb9oxkdoyws&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true">
+  </a>
+</p>
 
 #### About me
 ```yaml
