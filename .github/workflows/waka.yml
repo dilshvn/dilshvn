@@ -2,9 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs every 10 mins
+    # Runs every 15 mins
     # For help: https://jasonet.co/posts/scheduled-actions/
-    - cron: '*/10 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 jobs:
   update-readme:
