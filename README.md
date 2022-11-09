@@ -63,14 +63,16 @@ interests: Machine Learning, Data Science
 
 #### GitHub stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2014%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
+🌞 Morning    53 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
 🌆 Daytime    68 commits     █████░░░░░░░░░░░░░░░░░░░░   21.25% 
-🌃 Evening    162 commits    ████████████░░░░░░░░░░░░░   50.62% 
+🌃 Evening    160 commits    ████████████░░░░░░░░░░░░░   50.0% 
 🌙 Night      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.19%
 
 ```
@@ -78,8 +80,8 @@ interests: Machine Learning, Data Science
 
 ```text
 Monday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
-Tuesday      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.06% 
-Wednesday    24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
+Tuesday      27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.44% 
+Wednesday    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
 Thursday     93 commits     ███████░░░░░░░░░░░░░░░░░░   29.06% 
 Friday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
 Saturday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
@@ -124,7 +126,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dilshvn/dilshvn/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 04:00:26 UTC
+ Last Updated on 09/11/2022 04:17:11 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=github-light&hide_border=true" width="100%">
