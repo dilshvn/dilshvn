@@ -64,51 +64,7 @@ interests: Machine Learning, Data Science
 
 #### GitHub stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%208%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31%20Thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
-🌆 Daytime    68 commits     █████░░░░░░░░░░░░░░░░░░░░   21.18% 
-🌃 Evening    160 commits    ████████████░░░░░░░░░░░░░   49.84% 
-🌙 Night      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.15%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
-Tuesday      27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.41% 
-Wednesday    27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.41% 
-Thursday     93 commits     ███████░░░░░░░░░░░░░░░░░░   28.97% 
-Friday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-Saturday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
-Sunday       72 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-Python                   56 hrs 16 mins      ████████████████████████░   98.61% 
-JSON                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-
-🔥 Editors: 
-VS Code                  57 hrs 2 mins       █████████████████████████   99.96% 
-Browser                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
-
-💻 Operating System: 
-Windows                  57 hrs 4 mins       █████████████████████████   100.0%
-
-```
 
 **I Mostly Code in Python** 
 
@@ -127,7 +83,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dilshvn/dilshvn/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 05:36:05 UTC
+ Last Updated on 09/11/2022 06:24:43 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=github-light&hide_border=true" width="100%">
