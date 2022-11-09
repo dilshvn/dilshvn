@@ -63,7 +63,7 @@ interests: Machine Learning, Data Science
 
 #### GitHub stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31%20Thousand%20lines%20of%20code-blue)
 
@@ -126,7 +126,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dilshvn/dilshvn/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 04:47:29 UTC
+ Last Updated on 09/11/2022 04:55:19 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=github-light&hide_border=true" width="100%">
