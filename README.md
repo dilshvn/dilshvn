@@ -12,6 +12,7 @@
   <img alt="dilshvn's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
+<img src="https://wakatime.com/badge/user/6150e212-a227-4248-9cfe-3d6ff18fc409.svg">
 <img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue"></p>
 
 <p align="center">
