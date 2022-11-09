@@ -66,6 +66,48 @@ interests: Machine Learning, Data Science
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31%20Thousand%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    56 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
+🌆 Daytime    68 commits     █████░░░░░░░░░░░░░░░░░░░░   21.18% 
+🌃 Evening    158 commits    ████████████░░░░░░░░░░░░░   49.22% 
+🌙 Night      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.15%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
+Tuesday      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
+Wednesday    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.03% 
+Thursday     93 commits     ███████░░░░░░░░░░░░░░░░░░   28.97% 
+Friday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
+Saturday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
+Sunday       72 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+Python                   19 hrs 22 mins      █████████████████████████   99.69% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+
+🔥 Editors: 
+VS Code                  19 hrs 25 mins      █████████████████████████   99.88% 
+Browser                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+
+💻 Operating System: 
+Windows                  19 hrs 26 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -83,7 +125,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dilshvn/dilshvn/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 06:24:43 UTC
+ Last Updated on 09/11/2022 06:39:55 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=github-light&hide_border=true" width="100%">
