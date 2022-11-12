@@ -71,4 +71,9 @@ interests: Machine Learning, Data Science
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dilshvn&layout=compact&theme=dark&disable_animations=false&langs_count=8&hide_border=true" width="60%" alt="wkstats"  />
 </div>
 
+<img
+  src="https://github.com/dilshvn/dilshvn/blob/main/images/stat.svg"
+  alt="Dilshan's WakaTime Activity"
+/>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=github-light&hide_border=true" width="100%">
