@@ -33,7 +33,7 @@ interests: Machine Learning, Data Science
 ```
 <a href="https://github.com/dilshvn/resume/blob/main/Dilshan%20Perera%20(CV).pdf">![](https://img.shields.io/badge/click%20here%20for%20my%20resume-B32024?style=for-the-badge&logo=&logoColor=white)</a><br>
 
-#### Skills
+#### Tech stack
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
