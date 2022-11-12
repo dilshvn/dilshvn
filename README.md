@@ -64,13 +64,9 @@ interests: Machine Learning, Data Science
 ![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### GitHub stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dilshvn&layout=compact&theme=light&disable_animations=false&langs_count=8&hide_border=true" width="60%" alt="wkstats"  />
-</div>
-
-<!--a--<img src="https://github.com/dilshvn/dilshvn/blob/main/images/stat.svg" alt="Dilshan's WakaTime Activity"/>-->
-
-<img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=github-light&hide_border=true" width="100%">
+```yaml
+last updated: 11/11/2022
+```
+<div align="center"><img src="https://i.imgur.com/IpcjJ4J.png"></div>
+<img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=github-dark&hide_border=true" width="100%">
