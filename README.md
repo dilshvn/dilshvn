@@ -64,9 +64,10 @@ interests: Machine Learning, Data Science
 ![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### GitHub stats
-
-```yaml
-last updated: 11/11/2022
-```
-<div align="center"><img src="https://i.imgur.com/IpcjJ4J.png"></div>
-<img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=github-dark&hide_border=true" width="100%">
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilshvn&theme=2077">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dilshvn&theme=2077&utcOffset=8">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilshvn&theme=2077">
+  <img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contributions&theme=github-da
+            rk&hide_border=true">
+</div>
