@@ -65,8 +65,8 @@ interests: Machine Learning, Data Science
 
 #### GitHub stats
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilshvn&theme=2077">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dilshvn&theme=2077&utcOffset=6">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilshvn&theme=2077">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contribution%20This%20Month&theme=github-dark&hide_border=true">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilshvn&theme=2077"><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dilshvn&theme=2077&utcOffset=6"><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilshvn&theme=2077"><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contribution%20This%20Month&theme=github-dark&hide_border=true"><br>
 </div>
