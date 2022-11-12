@@ -13,7 +13,8 @@
 </a>
 <br>
 <img src="https://wakatime.com/badge/user/6150e212-a227-4248-9cfe-3d6ff18fc409.svg">
-<img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue"></p>
+<img src="https://komarev.com/ghpvc/?username=dilshvn&style=flat-square&color=blue">
+<a href="https://github.com/dilshvn"><img src="https://img.shields.io/github/followers/dilshvn?label=Follow&style=social"></a></p>
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=rfswxw5owypx98mb9oxkdoyws&redirect=true">
