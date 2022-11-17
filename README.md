@@ -21,6 +21,9 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=rfswxw5owypx98mb9oxkdoyws&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true">
   </a>
 </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dilshvn&theme=onedark&row=1">
+</div>
 
 #### About me
 ```yaml
