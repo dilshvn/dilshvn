@@ -32,7 +32,7 @@ age: 25
 from: Gampaha, Sri Lanka
 education: Fresh engineering graduate from University of Moratuwa, Sri Lanka
 interests: Machine Learning, Data Science, AI
-status: Hirable
+status: Hireable
 ```
 <a href="https://github.com/dilshvn/resume/blob/main/Dilshan%20Perera%20(CV).pdf">![](https://img.shields.io/badge/click%20here%20for%20my%20resume-B32024?style=for-the-badge&logo=&logoColor=white)</a><br>
 
