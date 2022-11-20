@@ -34,47 +34,46 @@ education: Fresh engineering graduate from University of Moratuwa, Sri Lanka
 interests: Machine Learning, Data Science, AI
 status: Hireable
 ```
-<a href="https://github.com/dilshvn/resume/blob/main/Dilshan%20Perera%20(CV).pdf">![](https://img.shields.io/badge/click%20here%20for%20my%20resume-B32024?style=for-the-badge&logo=&logoColor=white)</a><br>
+<a href="https://github.com/dilshvn/resume/blob/main/Dilshan%20Perera%20(CV).pdf">![](https://img.shields.io/badge/Click%20Here%20For%20My%20Resume-B32024?style=flat-square&logo=&logoColor=white)</a><br>
 
 #### Tech stack
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/matlab-FF3621?style=flat-square&logo=&logoColor=white)
-![](https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![](https://img.shields.io/badge/visual%20basic-5C2D91?style=flat-square&logo=&logoColor=white)
+![](https://img.shields.io/badge/MATLAB-FF3621?style=flat-square&logo=&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=flat-square&logo=&logoColor=white)
 
-![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/Matplotlib-FF9E0F?style=flat-square&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/XGBoost-0078D4?style=flat-square&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-FF9E0F?style=flat-square&logo=matplotlib&logoColor=white)
+![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/XGBoost-0078D4?style=flat-square&logo=xgboost&logoColor=white)
 ![](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![](https://img.shields.io/badge/Code::Blocks-B32024?style=flat-square&logo=&logoColor=white)
+![](https://img.shields.io/badge/Git%20Bash-00000F?style=flat-square&logo=&logoColor=white)
+![](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![](https://img.shields.io/badge/codeblocks-B32024?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/git%20bash-00000F?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/jupyter%20notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
-![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![](https://img.shields.io/badge/jupyter%20lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/sqlalchemy-FF3621?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/Windows_11-#0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![](https://img.shields.io/badge/JupyterLab-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/SQLAlchemy-FF3621?style=flat-square&logo=&logoColor=white)
+![](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
+![](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white)
 
 #### GitHub stats
 <div align="center">
