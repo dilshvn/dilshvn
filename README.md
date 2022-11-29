@@ -83,3 +83,6 @@ status: Hireable
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilshvn&theme=2077"><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=dilshvn&custom_title=Dilshan's%20Contribution%20This%20Month&theme=github-dark&hide_border=true&area=true"><br>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
