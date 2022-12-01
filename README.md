@@ -54,6 +54,7 @@ status: Hireable
 ![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Matplotlib-FF9E0F?style=flat-square&logo=matplotlib&logoColor=white)
 ![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![](https://img.shields.io/badge/XGBoost-0078D4?style=flat-square&logo=xgboost&logoColor=white)
 ![](https://img.shields.io/badge/Seaborn-003B57?style=flat-square&logo=seaborn&logoColor=white)
 ![](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
