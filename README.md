@@ -81,6 +81,6 @@ status: Hireable
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=dilshvn&theme=radical&hide_border=true"><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilshvn&theme=2077"><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dilshvn&theme=2077&utcOffset=6"><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilshvn&theme=2077"><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dilshvn&theme=2077&utcOffset=6"><br>
 </div>
