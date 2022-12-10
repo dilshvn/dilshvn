@@ -30,7 +30,7 @@
 name: Dilshan
 age: 25
 from: Gampaha, Sri Lanka
-education: Fresh engineering graduate from University of Moratuwa, Sri Lanka
+education: B.Sc (Hons) Engineering, University of Moratuwa, Sri Lanka
 interests: Machine Learning, AI, Data Science
 job: AI Enginner at Analog Inference
 ```
