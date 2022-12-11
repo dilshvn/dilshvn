@@ -68,6 +68,8 @@ job: AI Enginner at Analog Inference
 ![](https://img.shields.io/badge/Git%20Bash-00000F?style=flat-square&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+![](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![](https://img.shields.io/badge/Jira%20Software-0052CC?style=flat-square&logo=jira-software&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
