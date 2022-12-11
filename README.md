@@ -31,7 +31,7 @@ name: Dilshan
 age: 25
 from: Gampaha, Sri Lanka
 education: B.Sc (Hons) Engineering, University of Moratuwa, Sri Lanka
-interests: Machine Learning, AI, Data Science
+interests: Machine Learning, AI
 job: AI Enginner at Analog Inference
 ```
 <a href="https://github.com/dilshvn/resume/blob/main/Dilshan%20Perera%20(CV).pdf">![](https://img.shields.io/badge/Click%20Here%20For%20My%20Resume-B32024?style=flat-square&logo=&logoColor=white)</a><br>
