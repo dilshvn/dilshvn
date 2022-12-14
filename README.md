@@ -50,6 +50,7 @@ job: AI Enginner at Analog Inference, California, USA
 ![](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=flat-square&logo=&logoColor=white)
 
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Matplotlib-FF9E0F?style=flat-square&logo=matplotlib&logoColor=white)
@@ -62,11 +63,11 @@ job: AI Enginner at Analog Inference, California, USA
 ![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![](https://img.shields.io/badge/Code::Blocks-B32024?style=flat-square&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Git%20Bash-00000F?style=flat-square&logo=&logoColor=white)
-![](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ![](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![](https://img.shields.io/badge/Jira%20Software-0052CC?style=flat-square&logo=jira-software&logoColor=white)
