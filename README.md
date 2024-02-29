@@ -29,10 +29,10 @@
 ```yaml
 name: Dilshan
 age: 26
-from: Gampaha, Sri Lanka
-education: B.Sc (Hons) Engineering, University of Moratuwa, Sri Lanka
+from: Sri Lanka
+education: MSc in Data Science and AI, University of Moratuwa, Sri Lanka
 interests: Machine Learning, Deep Learning, AI
-job: Artificial Intelligence (AI) and Machine Learning (ML) Consulting Engineer, Analog Inference, California, USA
+job: ML and AI Engineer, Analog Inference, California, USA
 ```
 
 #### Tech stack
