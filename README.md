@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/dilshvn">
   <img alt="dilshvn's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
-<a href="https://www.instagram.com/dilshvn">
+<a href="https://www.instagram.com/dilshandperera">
   <img alt="dilshvn's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
 <a href="https://open.spotify.com/user/rfswxw5owypx98mb9oxkdoyws">
